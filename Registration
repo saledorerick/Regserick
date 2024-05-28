@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <title>Login Web</title>
+  
+    <script src="https://kit.fontawesome.com/eef984d95b.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+  <section>
+    <div class="form-box">
+      <div class="form-value">
+        <form action="">
+          <h2>Registration Form</h2>
+       <div class="inputbox">
+    <input type="name" required>
+    <label for="">Firstname</label>
+  </div>
+                <div class="inputbox">
+        <input type="middlename" required>
+        <label for="">Middlename</label>
+      </div>
+          
+               <div class="inputbox">
+        <input type="lastname" required>
+        <label for="">Lastname</label>
+      </div> 
+                    <div class="inputbox">
+            <input type="phonenumber" required>
+            <label for="">PhoneNumber</label>
+         
+          </div>
+                    <div class="inputbox">
+            <input type="youremail" required>
+            <label for="">Your Email</label>
+          </div>
+          <div class="inputbox">
+            <input type="username" required>
+            <label for="">Username</label>
+          </div>
+          <div class="inputbox">
+            <input type="password" required>
+            <label for="">Password</label>
+          </div>
+                    <div class="inputbox">
+            <input type="password" required>
+            <label for="">ConfirmPassword</label>
+          </div>
+          
+          <div class="forget">
+            <label>
+              <p>Forget <a href="#">Password</a>
+            </label></p>
+
+          </div>
+          
+          <button 
+type="submit" class="submit">Register</button>
+
+        <div class="register">
+         <p>Don't have a account <a href="#">Register</a></p>
+          </div>
+          
+<div class="container">
+    <div class="circle-text">OR</div>
+    <div class="content">
+        <p>With connect social</p>
+        
+    </div>
+
+
+          
+      <div class="icons">
+    <a href="https://facebook.com">
+    <i class="fa-brands fa-square-facebook fa-3x"></i>
+    </a>
+    
+    <a href="https://instagram.com">
+    <i class="fa-brands fa-square-instagram fa-3x"></i>
+    </a>
+    
+    <a href="https://tiktok.com">
+    <i class="fa-brands fa-tiktok fa-3x"></i>
+    </a>
+    
+    <a href="https://youtube.com">
+    <i class="fa-brands fa-youtube fa-3x"></i>
+    </a>
+    
+    </div>
+        </form>
+      </div>
+    </div>
+  </section>
+<script src="js-lecture-proper.js">
+ 
+ 
+ </body>
+
+</html>
